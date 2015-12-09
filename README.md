@@ -1,7 +1,7 @@
 # aprendacompy
 Automatically exported from code.google.com/p/aprendacompy
 
-# Aprenda Computação com Python
+# Aprenda Computação com Python 2
 
 Bem vindo ao site do mutirão de tradução do livro "How to Think Like a Computer Scientist: Learning with Python", de Allen Downey, Jeffrey Elkner e Chris Meyers.
 
@@ -19,3 +19,9 @@ PDF: https://readthedocs.org/projects/aprendacompy/downloads/pdf/latest/
 htmlzip: https://readthedocs.org/projects/aprendacompy/downloads/htmlzip/latest/
 
 epub: https://readthedocs.org/projects/aprendacompy/downloads/epub/latest/
+
+Há uma atualização deste livro para Python3, contudo só achei o PDF em:
+
+http://rodrigor.dcx.ufpb.br/_media/disciplinas/introprog/19939680-aprendacomputaocompython3k.pdf
+
+Se alguem souber onde está os fontes, seria bom.
