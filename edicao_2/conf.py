@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Aprenda Computação com Python documentation build configuration file, created by
+# Aprenda Computação com Python 2 documentation build configuration file, created by
 # sphinx-quickstart on Mon Apr  6 01:12:19 2009.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -41,7 +41,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Aprenda Computação com Python'
+project = u'Aprenda Computação com Python 2'
 copyright = u'2009, Allen Downey, Jeff Elkner and Chris Meyers'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -168,7 +168,7 @@ htmlhelp_basename = 'AprendaComputaocomPythondoc'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, document class [howto/manual]).
 latex_documents = [
-  ('index', 'AprendaComputaocomPython.tex', ur'Aprenda Computação com Python Documentation',
+  ('index', 'AprendaComputaocomPython2.tex', ur'Aprenda Computação com Python 2 Documentation',
    ur'Allen Downey, Jeff Elkner and Chris Meyers', 'manual'),
 ]
 
