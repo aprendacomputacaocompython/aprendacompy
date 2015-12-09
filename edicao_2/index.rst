@@ -1,5 +1,5 @@
-Aprenda Computação com Python
-=============================
+Aprenda Computação com Python 2
+===============================
 
 Contents:
 
